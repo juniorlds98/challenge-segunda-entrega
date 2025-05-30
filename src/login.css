@@ -1,0 +1,20 @@
+.login-box-gui {
+  max-width: 400px;
+  width: 100%;
+  background-color: #e6e6e6; 
+  border-radius: 12px;
+}
+
+input::placeholder {
+  font-weight: 500;
+}
+
+button-gui {
+  font-weight: 600;
+}
+
+logo-gui {
+  max-width: 100%; 
+  height: auto;    
+  display: block;
+}
